@@ -5,3 +5,4 @@ This repo is to track and resolve some issues where dashboard / page widgets dis
 ## Known issues
 
 - [ ] Clicking the "Action Button" on the Dashboard removes the first widget from `getFooterWidgets()`
+- [ ] Having `wire:poll` within a page removes the first widget from `getFooterWidgets()`
